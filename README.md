@@ -22,6 +22,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Microsoft-Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
-
 ![Snake animation](https://github.com/Alex-Sandro49/Alex-Sandro49/blob/output/github-contribution-grid-snake.svg)
-
