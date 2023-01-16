@@ -29,3 +29,4 @@
 ![Microsoft-Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 ![](https://github.com/alexsandro49/alexsandro49/raw/output/github-contribution-grid-snake.svg)
+<!--(https://github.com/Platane/snk)--!>
