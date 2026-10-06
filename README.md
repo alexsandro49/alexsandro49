@@ -1,6 +1,6 @@
 <div align="left">
-  <img height="195" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=alexsandro49&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true">
-  <img height="195" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=alexsandro49&layout=compact&theme=tokyonight&count_private=true">
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=alexsandro49&show_icons=true&include_all_commits=true&theme=algolia">
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=alexsandro49&langs_count=5&theme=algolia">
 </div>
 
 ### Main skills:
